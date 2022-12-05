@@ -1,0 +1,24 @@
+{% extends "admin/change_list.html" %}
+{% block object-tools-items %}
+
+{{ block.super }}
+
+<a href="{% url 'email-list-file' %}" class="btn btn-outline-success float-right" id="export-emails-btn">
+    <i class="fas fa-envelope"></i> &nbsp; Export Emails
+</a>
+
+<script>
+    window.onload = () => {
+        const queryString = document.location.search;
+        const exportEmailsButton = document.getElementById("export-emails-btn");
+        if (queryString.length > 1 || queryString.indexOf("country") > -1) {
+            const exportUrl = exportEmailsButton.getAttribute("href");
+            const newUrl = exportUrl + queryString;
+            exportEmailsButton.setAttribute("href", newUrl);
+        } else {
+            exportEmailsButton.parentElement.removeChild(exportEmailsButton);
+        }
+    }
+</script>
+
+{% endblock %}

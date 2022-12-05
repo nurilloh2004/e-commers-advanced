@@ -1,0 +1,1225 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-24 17:10+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\api\admin.py:55 .\api\models.py:94
+msgid "Metamask ID"
+msgstr ""
+
+#: .\api\admin.py:62 .\api\models.py:56
+msgid "Referal code"
+msgstr ""
+
+#: .\api\admin.py:66
+msgid "Referal count"
+msgstr ""
+
+#: .\api\admin.py:116
+msgid "Entity count"
+msgstr ""
+
+#: .\api\admin.py:151 .\api\models.py:170
+msgid "Description"
+msgstr ""
+
+#: .\api\admin.py:155
+msgid "Views"
+msgstr ""
+
+#: .\api\admin.py:159
+msgid "Likes"
+msgstr ""
+
+#: .\api\admin.py:221 .\api\models.py:356 .\api\models.py:380
+msgid "Icon"
+msgstr ""
+
+#: .\api\apps.py:8 .\api\apps.py:9
+msgid "White Bridge Club"
+msgstr ""
+
+#: .\api\data.py:14
+msgid "Afghanistan"
+msgstr ""
+
+#: .\api\data.py:15
+msgid "Åland Islands"
+msgstr ""
+
+#: .\api\data.py:16
+msgid "Albania"
+msgstr ""
+
+#: .\api\data.py:17
+msgid "Algeria"
+msgstr ""
+
+#: .\api\data.py:18
+msgid "American Samoa"
+msgstr ""
+
+#: .\api\data.py:19
+msgid "Andorra"
+msgstr ""
+
+#: .\api\data.py:20
+msgid "Angola"
+msgstr ""
+
+#: .\api\data.py:21
+msgid "Anguilla"
+msgstr ""
+
+#: .\api\data.py:22
+msgid "Antarctica"
+msgstr ""
+
+#: .\api\data.py:23
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: .\api\data.py:24
+msgid "Argentina"
+msgstr ""
+
+#: .\api\data.py:25
+msgid "Armenia"
+msgstr ""
+
+#: .\api\data.py:26
+msgid "Aruba"
+msgstr ""
+
+#: .\api\data.py:27
+msgid "Australia"
+msgstr ""
+
+#: .\api\data.py:28
+msgid "Austria"
+msgstr ""
+
+#: .\api\data.py:29
+msgid "Azerbaijan"
+msgstr ""
+
+#: .\api\data.py:30
+msgid "Bahamas"
+msgstr ""
+
+#: .\api\data.py:31
+msgid "Bahrain"
+msgstr ""
+
+#: .\api\data.py:32
+msgid "Bangladesh"
+msgstr ""
+
+#: .\api\data.py:33
+msgid "Barbados"
+msgstr ""
+
+#: .\api\data.py:34
+msgid "Belarus"
+msgstr ""
+
+#: .\api\data.py:35
+msgid "Belgium"
+msgstr ""
+
+#: .\api\data.py:36
+msgid "Belize"
+msgstr ""
+
+#: .\api\data.py:37
+msgid "Benin"
+msgstr ""
+
+#: .\api\data.py:38
+msgid "Bermuda"
+msgstr ""
+
+#: .\api\data.py:39
+msgid "Bhutan"
+msgstr ""
+
+#: .\api\data.py:40
+msgid "Bolivia (Plurinational State of)"
+msgstr ""
+
+#: .\api\data.py:41
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: .\api\data.py:42
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: .\api\data.py:43
+msgid "Botswana"
+msgstr ""
+
+#: .\api\data.py:44
+msgid "Bouvet Island"
+msgstr ""
+
+#: .\api\data.py:45
+msgid "Brazil"
+msgstr ""
+
+#: .\api\data.py:46
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: .\api\data.py:47
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: .\api\data.py:48
+msgid "Bulgaria"
+msgstr ""
+
+#: .\api\data.py:49
+msgid "Burkina Faso"
+msgstr ""
+
+#: .\api\data.py:50
+msgid "Burundi"
+msgstr ""
+
+#: .\api\data.py:51
+msgid "Cabo Verde"
+msgstr ""
+
+#: .\api\data.py:52
+msgid "Cambodia"
+msgstr ""
+
+#: .\api\data.py:53
+msgid "Cameroon"
+msgstr ""
+
+#: .\api\data.py:54
+msgid "Canada"
+msgstr ""
+
+#: .\api\data.py:55
+msgid "Cayman Islands"
+msgstr ""
+
+#: .\api\data.py:56
+msgid "Central African Republic"
+msgstr ""
+
+#: .\api\data.py:57
+msgid "Chad"
+msgstr ""
+
+#: .\api\data.py:58
+msgid "Chile"
+msgstr ""
+
+#: .\api\data.py:59
+msgid "China"
+msgstr ""
+
+#: .\api\data.py:60
+msgid "Christmas Island"
+msgstr ""
+
+#: .\api\data.py:61
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: .\api\data.py:62
+msgid "Colombia"
+msgstr ""
+
+#: .\api\data.py:63
+msgid "Comoros"
+msgstr ""
+
+#: .\api\data.py:64
+msgid "Congo"
+msgstr ""
+
+#: .\api\data.py:65
+msgid "Congo (the Democratic Republic of the)"
+msgstr ""
+
+#: .\api\data.py:66
+msgid "Cook Islands"
+msgstr ""
+
+#: .\api\data.py:67
+msgid "Costa Rica"
+msgstr ""
+
+#: .\api\data.py:68
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: .\api\data.py:69
+msgid "Croatia"
+msgstr ""
+
+#: .\api\data.py:70
+msgid "Cuba"
+msgstr ""
+
+#: .\api\data.py:71
+msgid "Curaçao"
+msgstr ""
+
+#: .\api\data.py:72
+msgid "Cyprus"
+msgstr ""
+
+#: .\api\data.py:73
+msgid "Czechia"
+msgstr ""
+
+#: .\api\data.py:74
+msgid "Denmark"
+msgstr ""
+
+#: .\api\data.py:75
+msgid "Djibouti"
+msgstr ""
+
+#: .\api\data.py:76
+msgid "Dominica"
+msgstr ""
+
+#: .\api\data.py:77
+msgid "Dominican Republic"
+msgstr ""
+
+#: .\api\data.py:78
+msgid "Ecuador"
+msgstr ""
+
+#: .\api\data.py:79
+msgid "Egypt"
+msgstr ""
+
+#: .\api\data.py:80
+msgid "El Salvador"
+msgstr ""
+
+#: .\api\data.py:81
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: .\api\data.py:82
+msgid "Eritrea"
+msgstr ""
+
+#: .\api\data.py:83
+msgid "Estonia"
+msgstr ""
+
+#: .\api\data.py:84
+msgid "Eswatini"
+msgstr ""
+
+#: .\api\data.py:85
+msgid "Ethiopia"
+msgstr ""
+
+#: .\api\data.py:86
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: .\api\data.py:87
+msgid "Faroe Islands"
+msgstr ""
+
+#: .\api\data.py:88
+msgid "Fiji"
+msgstr ""
+
+#: .\api\data.py:89
+msgid "Finland"
+msgstr ""
+
+#: .\api\data.py:90
+msgid "France"
+msgstr ""
+
+#: .\api\data.py:91
+msgid "French Guiana"
+msgstr ""
+
+#: .\api\data.py:92
+msgid "French Polynesia"
+msgstr ""
+
+#: .\api\data.py:93
+msgid "French Southern Territories"
+msgstr ""
+
+#: .\api\data.py:94
+msgid "Gabon"
+msgstr ""
+
+#: .\api\data.py:95
+msgid "Gambia"
+msgstr ""
+
+#: .\api\data.py:96
+msgid "Georgia"
+msgstr ""
+
+#: .\api\data.py:97
+msgid "Germany"
+msgstr ""
+
+#: .\api\data.py:98
+msgid "Ghana"
+msgstr ""
+
+#: .\api\data.py:99
+msgid "Gibraltar"
+msgstr ""
+
+#: .\api\data.py:100
+msgid "Greece"
+msgstr ""
+
+#: .\api\data.py:101
+msgid "Greenland"
+msgstr ""
+
+#: .\api\data.py:102
+msgid "Grenada"
+msgstr ""
+
+#: .\api\data.py:103
+msgid "Guadeloupe"
+msgstr ""
+
+#: .\api\data.py:104
+msgid "Guam"
+msgstr ""
+
+#: .\api\data.py:105
+msgid "Guatemala"
+msgstr ""
+
+#: .\api\data.py:106
+msgid "Guernsey"
+msgstr ""
+
+#: .\api\data.py:107
+msgid "Guinea"
+msgstr ""
+
+#: .\api\data.py:108
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: .\api\data.py:109
+msgid "Guyana"
+msgstr ""
+
+#: .\api\data.py:110
+msgid "Haiti"
+msgstr ""
+
+#: .\api\data.py:111
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: .\api\data.py:112
+msgid "Holy See"
+msgstr ""
+
+#: .\api\data.py:113
+msgid "Honduras"
+msgstr ""
+
+#: .\api\data.py:114
+msgid "Hong Kong"
+msgstr ""
+
+#: .\api\data.py:115
+msgid "Hungary"
+msgstr ""
+
+#: .\api\data.py:116
+msgid "Iceland"
+msgstr ""
+
+#: .\api\data.py:117
+msgid "India"
+msgstr ""
+
+#: .\api\data.py:118
+msgid "Indonesia"
+msgstr ""
+
+#: .\api\data.py:119
+msgid "Iran (Islamic Republic of)"
+msgstr ""
+
+#: .\api\data.py:120
+msgid "Iraq"
+msgstr ""
+
+#: .\api\data.py:121
+msgid "Ireland"
+msgstr ""
+
+#: .\api\data.py:122
+msgid "Isle of Man"
+msgstr ""
+
+#: .\api\data.py:123
+msgid "Israel"
+msgstr ""
+
+#: .\api\data.py:124
+msgid "Italy"
+msgstr ""
+
+#: .\api\data.py:125
+msgid "Jamaica"
+msgstr ""
+
+#: .\api\data.py:126
+msgid "Japan"
+msgstr ""
+
+#: .\api\data.py:127
+msgid "Jersey"
+msgstr ""
+
+#: .\api\data.py:128
+msgid "Jordan"
+msgstr ""
+
+#: .\api\data.py:129
+msgid "Kazakhstan"
+msgstr ""
+
+#: .\api\data.py:130
+msgid "Kenya"
+msgstr ""
+
+#: .\api\data.py:131
+msgid "Kiribati"
+msgstr ""
+
+#: .\api\data.py:132
+msgid "Korea (the Democratic People's Republic of)"
+msgstr ""
+
+#: .\api\data.py:133
+msgid "Korea (the Republic of)"
+msgstr ""
+
+#: .\api\data.py:134
+msgid "Kuwait"
+msgstr ""
+
+#: .\api\data.py:135
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: .\api\data.py:136
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: .\api\data.py:137
+msgid "Latvia"
+msgstr ""
+
+#: .\api\data.py:138
+msgid "Lebanon"
+msgstr ""
+
+#: .\api\data.py:139
+msgid "Lesotho"
+msgstr ""
+
+#: .\api\data.py:140
+msgid "Liberia"
+msgstr ""
+
+#: .\api\data.py:141
+msgid "Libya"
+msgstr ""
+
+#: .\api\data.py:142
+msgid "Liechtenstein"
+msgstr ""
+
+#: .\api\data.py:143
+msgid "Lithuania"
+msgstr ""
+
+#: .\api\data.py:144
+msgid "Luxembourg"
+msgstr ""
+
+#: .\api\data.py:145
+msgid "Macao"
+msgstr ""
+
+#: .\api\data.py:146
+msgid "Madagascar"
+msgstr ""
+
+#: .\api\data.py:147
+msgid "Malawi"
+msgstr ""
+
+#: .\api\data.py:148
+msgid "Malaysia"
+msgstr ""
+
+#: .\api\data.py:149
+msgid "Maldives"
+msgstr ""
+
+#: .\api\data.py:150
+msgid "Mali"
+msgstr ""
+
+#: .\api\data.py:151
+msgid "Malta"
+msgstr ""
+
+#: .\api\data.py:152
+msgid "Marshall Islands"
+msgstr ""
+
+#: .\api\data.py:153
+msgid "Martinique"
+msgstr ""
+
+#: .\api\data.py:154
+msgid "Mauritania"
+msgstr ""
+
+#: .\api\data.py:155
+msgid "Mauritius"
+msgstr ""
+
+#: .\api\data.py:156
+msgid "Mayotte"
+msgstr ""
+
+#: .\api\data.py:157
+msgid "Mexico"
+msgstr ""
+
+#: .\api\data.py:158
+msgid "Micronesia (Federated States of)"
+msgstr ""
+
+#: .\api\data.py:159
+msgid "Moldova (the Republic of)"
+msgstr ""
+
+#: .\api\data.py:160
+msgid "Monaco"
+msgstr ""
+
+#: .\api\data.py:161
+msgid "Mongolia"
+msgstr ""
+
+#: .\api\data.py:162
+msgid "Montenegro"
+msgstr ""
+
+#: .\api\data.py:163
+msgid "Montserrat"
+msgstr ""
+
+#: .\api\data.py:164
+msgid "Morocco"
+msgstr ""
+
+#: .\api\data.py:165
+msgid "Mozambique"
+msgstr ""
+
+#: .\api\data.py:166
+msgid "Myanmar"
+msgstr ""
+
+#: .\api\data.py:167
+msgid "Namibia"
+msgstr ""
+
+#: .\api\data.py:168
+msgid "Nauru"
+msgstr ""
+
+#: .\api\data.py:169
+msgid "Nepal"
+msgstr ""
+
+#: .\api\data.py:170
+msgid "Netherlands"
+msgstr ""
+
+#: .\api\data.py:171
+msgid "New Caledonia"
+msgstr ""
+
+#: .\api\data.py:172
+msgid "New Zealand"
+msgstr ""
+
+#: .\api\data.py:173
+msgid "Nicaragua"
+msgstr ""
+
+#: .\api\data.py:174
+msgid "Niger"
+msgstr ""
+
+#: .\api\data.py:175
+msgid "Nigeria"
+msgstr ""
+
+#: .\api\data.py:176
+msgid "Niue"
+msgstr ""
+
+#: .\api\data.py:177
+msgid "Norfolk Island"
+msgstr ""
+
+#: .\api\data.py:178
+msgid "North Macedonia"
+msgstr ""
+
+#: .\api\data.py:179
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: .\api\data.py:180
+msgid "Norway"
+msgstr ""
+
+#: .\api\data.py:181
+msgid "Oman"
+msgstr ""
+
+#: .\api\data.py:182
+msgid "Pakistan"
+msgstr ""
+
+#: .\api\data.py:183
+msgid "Palau"
+msgstr ""
+
+#: .\api\data.py:184
+msgid "Palestine, State of"
+msgstr ""
+
+#: .\api\data.py:185
+msgid "Panama"
+msgstr ""
+
+#: .\api\data.py:186
+msgid "Papua New Guinea"
+msgstr ""
+
+#: .\api\data.py:187
+msgid "Paraguay"
+msgstr ""
+
+#: .\api\data.py:188
+msgid "Peru"
+msgstr ""
+
+#: .\api\data.py:189
+msgid "Philippines"
+msgstr ""
+
+#: .\api\data.py:190
+msgid "Pitcairn"
+msgstr ""
+
+#: .\api\data.py:191
+msgid "Poland"
+msgstr ""
+
+#: .\api\data.py:192
+msgid "Portugal"
+msgstr ""
+
+#: .\api\data.py:193
+msgid "Puerto Rico"
+msgstr ""
+
+#: .\api\data.py:194
+msgid "Qatar"
+msgstr ""
+
+#: .\api\data.py:195
+msgid "Réunion"
+msgstr ""
+
+#: .\api\data.py:196
+msgid "Romania"
+msgstr ""
+
+#: .\api\data.py:197
+msgid "Russian Federation"
+msgstr ""
+
+#: .\api\data.py:198
+msgid "Rwanda"
+msgstr ""
+
+#: .\api\data.py:199
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: .\api\data.py:200
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+#: .\api\data.py:201
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: .\api\data.py:202
+msgid "Saint Lucia"
+msgstr ""
+
+#: .\api\data.py:203
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: .\api\data.py:204
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: .\api\data.py:205
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: .\api\data.py:206
+msgid "Samoa"
+msgstr ""
+
+#: .\api\data.py:207
+msgid "San Marino"
+msgstr ""
+
+#: .\api\data.py:208
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: .\api\data.py:209
+msgid "Saudi Arabia"
+msgstr ""
+
+#: .\api\data.py:210
+msgid "Senegal"
+msgstr ""
+
+#: .\api\data.py:211
+msgid "Serbia"
+msgstr ""
+
+#: .\api\data.py:212
+msgid "Seychelles"
+msgstr ""
+
+#: .\api\data.py:213
+msgid "Sierra Leone"
+msgstr ""
+
+#: .\api\data.py:214
+msgid "Singapore"
+msgstr ""
+
+#: .\api\data.py:215
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#: .\api\data.py:216
+msgid "Slovakia"
+msgstr ""
+
+#: .\api\data.py:217
+msgid "Slovenia"
+msgstr ""
+
+#: .\api\data.py:218
+msgid "Solomon Islands"
+msgstr ""
+
+#: .\api\data.py:219
+msgid "Somalia"
+msgstr ""
+
+#: .\api\data.py:220
+msgid "South Africa"
+msgstr ""
+
+#: .\api\data.py:221
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: .\api\data.py:222
+msgid "South Sudan"
+msgstr ""
+
+#: .\api\data.py:223
+msgid "Spain"
+msgstr ""
+
+#: .\api\data.py:224
+msgid "Sri Lanka"
+msgstr ""
+
+#: .\api\data.py:225
+msgid "Sudan"
+msgstr ""
+
+#: .\api\data.py:226
+msgid "Suriname"
+msgstr ""
+
+#: .\api\data.py:227
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: .\api\data.py:228
+msgid "Sweden"
+msgstr ""
+
+#: .\api\data.py:229
+msgid "Switzerland"
+msgstr ""
+
+#: .\api\data.py:230
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: .\api\data.py:231
+msgid "Taiwan (Province of China)"
+msgstr ""
+
+#: .\api\data.py:232
+msgid "Tajikistan"
+msgstr ""
+
+#: .\api\data.py:233
+msgid "Tanzania, the United Republic of"
+msgstr ""
+
+#: .\api\data.py:234
+msgid "Thailand"
+msgstr ""
+
+#: .\api\data.py:235
+msgid "Timor-Leste"
+msgstr ""
+
+#: .\api\data.py:236
+msgid "Togo"
+msgstr ""
+
+#: .\api\data.py:237
+msgid "Tokelau"
+msgstr ""
+
+#: .\api\data.py:238
+msgid "Tonga"
+msgstr ""
+
+#: .\api\data.py:239
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: .\api\data.py:240
+msgid "Tunisia"
+msgstr ""
+
+#: .\api\data.py:241
+msgid "Turkey"
+msgstr ""
+
+#: .\api\data.py:242
+msgid "Turkmenistan"
+msgstr ""
+
+#: .\api\data.py:243
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: .\api\data.py:244
+msgid "Tuvalu"
+msgstr ""
+
+#: .\api\data.py:245
+msgid "Uganda"
+msgstr ""
+
+#: .\api\data.py:246
+msgid "Ukraine"
+msgstr ""
+
+#: .\api\data.py:247
+msgid "United Arab Emirates"
+msgstr ""
+
+#: .\api\data.py:248
+msgid "United Kingdom of Great Britain and Northern Ireland"
+msgstr ""
+
+#: .\api\data.py:249
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: .\api\data.py:250
+msgid "United States of America"
+msgstr ""
+
+#: .\api\data.py:251
+msgid "Uruguay"
+msgstr ""
+
+#: .\api\data.py:252
+msgid "Uzbekistan"
+msgstr ""
+
+#: .\api\data.py:253
+msgid "Vanuatu"
+msgstr ""
+
+#: .\api\data.py:254
+msgid "Venezuela (Bolivarian Republic of)"
+msgstr ""
+
+#: .\api\data.py:255
+msgid "Viet Nam"
+msgstr ""
+
+#: .\api\data.py:256
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: .\api\data.py:257
+msgid "Virgin Islands (U.S.)"
+msgstr ""
+
+#: .\api\data.py:258
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: .\api\data.py:259
+msgid "Western Sahara"
+msgstr ""
+
+#: .\api\data.py:260
+msgid "Yemen"
+msgstr ""
+
+#: .\api\data.py:261
+msgid "Zambia"
+msgstr ""
+
+#: .\api\data.py:262
+msgid "Zimbabwe"
+msgstr ""
+
+#: .\api\models.py:16 .\api\models.py:93
+msgid "Gender"
+msgstr ""
+
+#: .\api\models.py:17
+msgid "Genders"
+msgstr ""
+
+#: .\api\models.py:20 .\api\models.py:167 .\api\models.py:253
+#: .\api\models.py:295 .\api\models.py:354 .\api\models.py:377
+msgid "Title"
+msgstr ""
+
+#: .\api\models.py:23 .\api\models.py:133 .\api\models.py:176
+#: .\api\models.py:320 .\api\models.py:399
+msgid "Translate with google"
+msgstr ""
+
+#: .\api\models.py:54 .\api\models.py:280
+msgid "Email"
+msgstr ""
+
+#: .\api\models.py:55
+msgid "Registration provider"
+msgstr ""
+
+#: .\api\models.py:88
+msgid "User"
+msgstr ""
+
+#: .\api\models.py:89
+msgid "Phone"
+msgstr ""
+
+#: .\api\models.py:90 .\api\models.py:255
+msgid "Photo"
+msgstr ""
+
+#: .\api\models.py:91
+msgid "Fullname"
+msgstr ""
+
+#: .\api\models.py:92
+msgid "Birthday"
+msgstr ""
+
+#: .\api\models.py:95
+msgid "Country"
+msgstr ""
+
+#: .\api\models.py:110
+msgid "Referencer"
+msgstr ""
+
+#: .\api\models.py:111
+msgid "Referal"
+msgstr ""
+
+#: .\api\models.py:112
+msgid "Source"
+msgstr ""
+
+#: .\api\models.py:129
+msgid "Parent category"
+msgstr ""
+
+#: .\api\models.py:172 .\api\models.py:270 .\api\models.py:298
+msgid "Category"
+msgstr ""
+
+#: .\api\models.py:173
+msgid "Main photo"
+msgstr ""
+
+#: .\api\models.py:174 .\api\models.py:398
+msgid "Photo 2"
+msgstr ""
+
+#: .\api\models.py:175
+msgid "Photo 3"
+msgstr ""
+
+#: .\api\models.py:215 .\api\models.py:291 .\api\models.py:367
+msgid "All"
+msgstr ""
+
+#: .\api\models.py:218 .\api\models.py:230 .\api\models.py:244
+#: .\api\models.py:268 .\api\models.py:282 .\api\models.py:294
+#: .\api\models.py:307 .\api\models.py:370
+msgid "Country location"
+msgstr ""
+
+#: .\api\models.py:219 .\api\models.py:297 .\api\models.py:371
+msgid "Link"
+msgstr ""
+
+#: .\api\models.py:220 .\api\models.py:227 .\api\models.py:241
+msgid "Offer"
+msgstr ""
+
+#: .\api\models.py:228 .\api\models.py:242 .\api\models.py:266
+msgid "Profile"
+msgstr ""
+
+#: .\api\models.py:229 .\api\models.py:243 .\api\models.py:267
+#: .\api\models.py:281 .\api\models.py:306
+msgid "IP address"
+msgstr ""
+
+#: .\api\models.py:231 .\api\models.py:245 .\api\models.py:269
+#: .\api\models.py:283 .\api\models.py:308
+msgid "Device"
+msgstr ""
+
+#: .\api\models.py:265
+msgid "Term"
+msgstr ""
+
+#: .\api\models.py:296
+msgid "File"
+msgstr ""
+
+#: .\api\models.py:305
+msgid "Banner"
+msgstr ""
+
+#: .\api\models.py:314
+msgid "Key"
+msgstr ""
+
+#: .\api\models.py:317
+msgid "Value"
+msgstr ""
+
+#: .\api\models.py:372
+msgid "Contact"
+msgstr ""
+
+#: .\api\models.py:379 .\api\models.py:437
+msgid "Slug"
+msgstr ""
+
+#: .\api\models.py:381
+msgid "Prefix link"
+msgstr ""
+
+#: .\api\models.py:392
+msgid "Title 1"
+msgstr ""
+
+#: .\api\models.py:393
+msgid "Content 1"
+msgstr ""
+
+#: .\api\models.py:394
+msgid "Title 2"
+msgstr ""
+
+#: .\api\models.py:395
+msgid "Content 2"
+msgstr ""
+
+#: .\api\models.py:397
+msgid "Photo 1"
+msgstr ""
+
+#: .\api\models.py:435
+msgid "Content"
+msgstr ""
+
+#: .\api\serializers.py:105
+msgid "male"
+msgstr ""
