@@ -5,6 +5,7 @@ from api.models import Profile
 
 
 def test(request):
+    """Test function."""
     from .tasks import test_func
     test_func.delay()
     return HttpResponse("Done!")
@@ -26,5 +27,5 @@ def email_list_file_view(request):
 
     except IOError:
         response = HttpResponseNotFound("<h1>Could not generate email list</h1>")
-    
+
     return response

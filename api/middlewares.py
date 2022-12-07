@@ -4,6 +4,7 @@ from .utils import get_lang
 
 
 class LanguageHeaderMiddleware(MiddlewareMixin):
+    """Language middleware custom."""
     def process_request(self, request):
         request.query_params = {}
         request.query_params["lang"] = request.GET.get("lang", "uz")
